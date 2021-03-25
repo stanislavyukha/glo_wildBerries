@@ -422,6 +422,12 @@ button {
     border: 1px solid black
 }
 
+.cart-clear {
+    background-color: rgb(204, 14, 14);
+    height: 35px;
+    align-self: center;
+}
+
 .cart-buy{
     background-color: #28a745;
     border-color: #28a745;
